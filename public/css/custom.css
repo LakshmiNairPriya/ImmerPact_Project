@@ -1,0 +1,79 @@
+.sidebar{
+    margin-top:2px;
+    height:750px;
+    width:300px;
+    background-color:aqua;
+}
+h3{
+    color:white;
+    text-align:center;
+    font-family:sans-serif;
+    padding-top:20px;
+    text-transform: uppercase;
+}  
+hr{
+    color:grey;
+} 
+h4{
+    color:grey;
+    padding-top:20px;
+    padding-left:5px;
+}
+.ulsb {
+    list-style-type:none;
+    padding-top:10px;
+   
+}
+li a{
+    color:grey;
+    padding-top:20px;
+    padding-left:10px;
+    line-height:50px;
+    text-decoration:none;
+    font-size:25px;
+   
+} a:hover{
+    color:white;
+}
+i{
+    margin-right:5px;
+}
+#navbar{
+    z-index:0px;
+   
+}
+#menu-toggles{
+    display:none;
+}
+#form{
+    padding-left:400px;
+}
+#dropdownMenuButton1{
+    margin-left:350px;
+   
+}
+.dropdown-item{
+    font-size:22px;
+    color:grey;
+}
+.dropdown-item:hover{
+    color:white;
+    background-color:Black;
+    font-family:monospace;
+}
+h2{
+    padding-top:30px;
+}
+
+.customerform{
+    padding-top:45px;
+}
+#btnform
+{
+   margin-top:40px;
+   margin-left:540px;
+}
+#btnback{
+   
+   margin-left:1100px;
+}
